@@ -1,0 +1,15 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#grad2)"/>
+  <rect x="100" y="100" width="200" height="160" rx="20" fill="#ffffff" opacity="0.8"/>
+  <circle cx="200" cy="180" r="50" fill="#f5576c" opacity="0.8"/>
+  <circle cx="200" cy="180" r="35" fill="#ffffff" opacity="0.6"/>
+  <circle cx="215" cy="165" r="8" fill="#f5576c" opacity="0.8"/>
+  <rect x="110" y="280" width="180" height="15" rx="7" fill="#ffffff" opacity="0.8"/>
+  <text x="200" y="350" font-size="28" fill="#ffffff" text-anchor="middle" font-weight="bold">📷 Camera</text>
+</svg>

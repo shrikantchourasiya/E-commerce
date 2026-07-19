@@ -1,0 +1,6 @@
+{
+  "watch": ["backend"],
+  "ignore": ["node_modules", "uploads", "frontend"],
+  "ext": "js,mjs",
+  "delay": 500
+}
